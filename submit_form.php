@@ -1,6 +1,6 @@
 <?php
 // Database connection
-$servername = "localhost";
+$servername = "github";
 $username = "Prashad"; // Change to your MySQL username
 $password = "Prashad@9707"; // Change to your MySQL password
 $dbname = "user_info";
